@@ -3,5 +3,6 @@ public class gitExample {
 	{
 		System.out.println("Git Example Line 1");
 		System.out.println("Git Example Line 2");
+		System.out.println("Git Example Line 3");
 	}
 }
